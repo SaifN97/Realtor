@@ -1,34 +1,64 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Realtor
 
-## Getting Started
+## Table of contents
 
-First, run the development server:
+- [Overview](#overview)
+  - [Preview](#preview)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Previews
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+![Finished Preview of home page](./public/preview.jpg)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+![Finished Preview of basket](./public/rentPagePreview.jpg)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+![Finished Preview of stripe checkout](./public/detailpagePreview.jpg)
 
-## Learn More
+### Links
 
-To learn more about Next.js, take a look at the following resources:
+- Live Site URL: [Realtor](https://realtor-saifn97.vercel.app/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## My process
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Built with
 
-## Deploy on Vercel
+- NextJs
+- Axios
+- Chakra UI
+- Framer Motion
+- Bayut API
+- Rapid API
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### What I learned
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Some hands on experience creating responsive layout with ChakraUI in Nextjs framework.
+- Animations with framer motion library
+- Fetching application data powered by Bayut API from RapidAPI.com.
+- Nextjs folder and project structure
+
+### Continued development
+
+1. NextJs
+1. Axios
+1. Framer Motion
+1. Consuming APIs
+
+### Useful resources
+
+- [Conquering Responsive Layouts](https://courses.kevinpowell.co) - This helped me to have a deeper understanding of making responsive layouts
+- [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A) - Adrian Hajdin has been an excellent resource to help me practice with great and professional projects, check out his YouTube Channel for more..
+- [Kevin Powell](https://www.youtube.com/watch?v=0ohtVzCSHqs&t=1s) - Kevin is the reason why i started using mobile first approach after watching this video where he explains how websites are responsive by default and its us who make it not responsive also his channel is a great resource for quick css tips and tricks!
+
+## Author
+
+- Frontend Mentor - [@SaifN97](https://www.frontendmentor.io/profile/SaifN97)
+- Instagram - [@saif.codes\_](https://www.instagram.com/saif.codes_)
+- Twitter - [@NarpaliSaif](https://twitter.com/NarpaliSaif)
